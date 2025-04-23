@@ -6,7 +6,7 @@
 
 int main()
 {
- // calculate the distance between a & b
+ 
 
  /*int Power,squar,A;
     A = 6;
@@ -203,7 +203,7 @@ char Name[150] = "Mouad";
 
 //------------------------------
 // exercice : Programm that solves the delta equation
-            // Delta = b² - 4ac
+            // Delta = bï¿½ - 4ac
 
 
  /*int a,b,c;
