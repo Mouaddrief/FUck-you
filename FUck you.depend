@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745425864 source:d:\users\mouad\desktop\prograaming\fuck you\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+
