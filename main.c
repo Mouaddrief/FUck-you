@@ -6,7 +6,7 @@
 
 int main()
 {
- 
+ //todo : learn git command
 
  /*int Power,squar,A;
     A = 6;
