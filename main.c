@@ -393,7 +393,7 @@ char Sexe;
   }*/
 
 
-  char  student_name[10];
+ /*char  student_name[10];
   char Answer ;
   int Result,Ready;
   //char Answer;
@@ -581,7 +581,28 @@ char Sexe;
         printf("Better luck next time");
 
 
-}
+}*/
+
+
+//------------------------------------------
+
+int i,number;
+
+    printf("add the number you want : ");
+    scanf("%d",&number);
+
+For
+
+
+
+
+
+
+
+
+
+
+
     return 0;
 
 }
