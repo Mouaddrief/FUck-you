@@ -591,7 +591,7 @@ int i,number;
     printf("add the number you want : ");
     scanf("%d",&number);
 
-For
+//For
 
 
 
